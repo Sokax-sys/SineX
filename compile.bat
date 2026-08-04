@@ -1,0 +1,1 @@
+npx electron-builder --win --config.extraMetadata.name=sinex --config.extraMetadata.productName=SineX --config.appId=com.sinex.app --config.directories.output=dist_electron 2>&1

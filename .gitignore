@@ -1,0 +1,11 @@
+node_modules/
+temp/
+download_config.ini
+dist/
+dist_electron/
+*.zip
+*secret.txt
+Pake/
+caveman-*/
+ponytail-*/
+scripts/tmdb-proxy-server/target/

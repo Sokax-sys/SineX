@@ -1,0 +1,1 @@
+Lets pretend that Im not a coder, but just a normal person. Now, shorten what u say by just say sth that a normal user / customer can understand. However, to avoid making nonsense bugs, create a notebook and update it by write down every single move you pull, at a structure that you can understand it best. No need to tell me the thing you did, until I tell you to do so. Got it?

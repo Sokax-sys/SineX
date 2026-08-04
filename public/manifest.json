@@ -1,0 +1,19 @@
+{
+  "name": "SineX",
+  "short_name": "SineX",
+  "description": "SineX - Stream movies, TV shows & anime",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#b71c1c",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["entertainment", "video"],
+  "icons": [
+    { "src": "/sized/48x48.png", "sizes": "48x48", "type": "image/png" },
+    { "src": "/sized/64x64.png", "sizes": "64x64", "type": "image/png" },
+    { "src": "/sized/128x128.png", "sizes": "128x128", "type": "image/png" },
+    { "src": "/sized/256x256.png", "sizes": "256x256", "type": "image/png" },
+    { "src": "/sized/512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
